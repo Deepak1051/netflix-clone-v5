@@ -26,7 +26,7 @@ const Footer = () => {
         </div>
 
         <h2 style={{ textAlign: "center", backgroundColor: "teal" }}>
-          Made By Light Yagami 💖💖
+          Made By Deepak💖💖
         </h2>
       </div>
     </div>
